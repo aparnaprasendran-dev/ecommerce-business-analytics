@@ -123,7 +123,7 @@ The Power BI dashboard provides an interactive interface for monitoring business
 
 ## Executive Overview
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
+![Executive Overview](Dashboard%20Screenshots/Executive%20Overview.png)
 
 ---
 
