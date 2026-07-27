@@ -123,31 +123,31 @@ The Power BI dashboard provides an interactive interface for monitoring business
 
 ## Executive Overview
 
-![Executive Overview](Dashboard%20Screenshots/Executive%20Overview.png)
+![Executive Overview](Dashboard%20Screenshots/executive_overview.png)
 
 ---
 
 ## Product Analysis
 
-![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)
+![Product Analysis](Dashboard%20Screenshots/product_analysis.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
+![Customer Analysis](Dashboard%20Screenshots/customer_analysis.png)
 
 ---
 
 ## Return & Delivery Analysis
 
-![Return & Delivery Analysis](Dashboard%20Screenshots/Return%20%26%20Delivery%20Analysis.png)
+![Return & Delivery Analysis](Dashboard%20Screenshots/return_delivery_analysis.png)
 
 ---
 
 ## Delivery Performance
 
-![Delivery Performance](Dashboard%20Screenshots/Delivery%20Analysis.png)
+![Delivery Analysis](Dashboard%20Screenshots/delivery_analysis.png)
 
 ---
 
