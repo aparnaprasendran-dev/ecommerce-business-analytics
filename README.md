@@ -1,11 +1,11 @@
 # E-commerce Business Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes an e-commerce dataset using SQL and Power BI to uncover business insights related to sales, customer behavior, product performance, deliveries, and returns.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - SQL (MySQL)
 - Power BI
 - DAX
@@ -13,7 +13,7 @@ This project analyzes an e-commerce dataset using SQL and Power BI to uncover bu
 
 ---
 
-## 📊 Business Questions Solved
+## Business Questions Solved
 
 - Revenue trend over time
 - Year-over-Year (YoY) growth
@@ -26,13 +26,13 @@ This project analyzes an e-commerce dataset using SQL and Power BI to uncover bu
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 The Power BI dashboard provides interactive visualizations for sales performance, customer insights, product analysis, return analysis, and key business KPIs to support data-driven decision-making.
 
 ---
 
-## 💡 SQL Concepts Used
+## SQL Concepts Used
 
 - Joins
 - Common Table Expressions (CTEs)
@@ -43,14 +43,14 @@ The Power BI dashboard provides interactive visualizations for sales performance
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - SQL Queries
 - README
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Business Analysis
@@ -61,7 +61,7 @@ The Power BI dashboard provides interactive visualizations for sales performance
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add interactive dashboard screenshots
 - Publish Power BI dashboard
