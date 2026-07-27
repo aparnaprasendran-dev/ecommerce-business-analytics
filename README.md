@@ -1,4 +1,8 @@
 # 🛒 E-Commerce Business Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 An end-to-end **Business Intelligence & Data Analytics** project built using **SQL, Power BI, DAX, and Excel** to analyze an e-commerce dataset and generate actionable business insights for sales, customers, products, deliveries, and returns.
 
