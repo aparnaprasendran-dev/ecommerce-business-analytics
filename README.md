@@ -1,38 +1,62 @@
-# E-commerce Business Analytics Dashboard
+# 🛒 E-Commerce Business Analytics Dashboard
 
-## Project Overview
-This project analyzes an e-commerce dataset using SQL and Power BI to uncover business insights related to sales, customer behavior, product performance, deliveries, and returns.
+An end-to-end **Business Intelligence & Data Analytics Project** built using **SQL, Power BI, DAX, and Excel** to analyze an e-commerce dataset and generate actionable business insights.
 
 ---
 
-## Tools & Technologies
-- SQL (MySQL)
+# 📌 Project Overview
+
+This project demonstrates the complete data analytics workflow—from writing SQL queries to answer business questions to building an interactive Power BI dashboard for decision-making.
+
+The project focuses on:
+
+- Revenue analysis
+- Customer behaviour
+- Product performance
+- Delivery performance
+- Return analysis
+- Business KPI monitoring
+
+---
+
+# 🛠️ Tools & Technologies
+
 - Power BI
+- SQL (MySQL)
 - DAX
 - Excel
 
 ---
 
-## Business Questions Solved
+# 🎯 Business Objectives
 
-- Revenue trend over time
-- Year-over-Year (YoY) growth
-- Top revenue-generating products
+- Analyze revenue trends over time
+- Measure Month-over-Month (MoM) growth
+- Identify high-performing products
+- Analyze customer purchasing behaviour
+- Monitor delivery efficiency
+- Evaluate product return trends
+- Calculate revenue lost due to returns
+- Support business decision-making using interactive dashboards
+
+---
+
+# 💻 SQL Analysis
+
+The SQL portion of the project answers important business questions through optimized queries.
+
+### Business Questions Solved
+
+- Revenue trend analysis
 - Most purchased products by category
+- Top revenue-generating products
 - Return rate by category
 - Repeat vs One-time customers
 - Percentage of late deliveries
 - Product performance analysis
+- Customer purchasing behaviour
 
----
-
-## Dashboard Highlights
-
-The Power BI dashboard provides interactive visualizations for sales performance, customer insights, product analysis, return analysis, and key business KPIs to support data-driven decision-making.
-
----
-
-## SQL Concepts Used
+### SQL Concepts Used
 
 - Joins
 - Common Table Expressions (CTEs)
@@ -40,30 +64,109 @@ The Power BI dashboard provides interactive visualizations for sales performance
 - Window Functions
 - CASE Statements
 - Subqueries
+- GROUP BY
+- HAVING
+- ORDER BY
 
 ---
 
-## Repository Structure
+# 📊 Power BI Dashboard
 
-- SQL Queries
-- README
+The Power BI dashboard provides interactive visualizations to monitor business performance.
+
+### Dashboard Pages
+
+## Executive Overview
+
+![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
 
 ---
 
-## Skills Demonstrated
+## Product Analysis
 
-- Data Cleaning
-- Business Analysis
-- SQL Query Writing
-- Dashboard Design
+![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png)
+
+---
+
+## Customer Analysis
+
+![Customer Analysis](Dashboard%20Screenshots/Customer%20Analysis.png)
+
+---
+
+## Return & Delivery Analysis
+
+![Return & Delivery Analysis](Dashboard%20Screenshots/Return%20%26%20Delivery%20Analysis.png)
+
+---
+
+## Delivery Performance
+
+![Delivery Performance](Dashboard%20Screenshots/Delivery%20Analysis.png)
+
+---
+
+# 📈 Dashboard KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Return Rate
+- Revenue Lost from Returns
+- Monthly Revenue Trend
+- Month-over-Month Revenue Growth
+
+---
+
+# 💼 Skills Demonstrated
+
+### SQL
+- Data Extraction
+- Query Optimization
+- Business Query Development
+- Relational Database Analysis
+
+### Power BI
+- Data Modeling
+- Star Schema Design
+- DAX Measures
+- Interactive Dashboards
+- KPI Development
 - Data Visualization
+
+### Analytics
+- Business Analysis
+- Data Cleaning
 - Problem Solving
+- Insight Generation
 
 ---
 
-## Future Improvements
+# 📁 Repository Structure
 
-- Add interactive dashboard screenshots
-- Publish Power BI dashboard
-- Expand SQL analysis with additional business scenarios
-- Add detailed documentation for each query
+```
+📂 Dashboard Screenshots
+📂 SQL Queries
+📄 ajio_project.pbix
+📄 ajio_project.pdf
+📄 README.md
+```
+
+---
+
+# 🚀 Files Included
+
+- Power BI Dashboard (.pbix)
+- Dashboard Report (.pdf)
+- SQL Query Collection
+- Dashboard Screenshots
+
+---
+
+# 👤 Author
+
+**Aparna P S**
+
+GitHub:
+https://github.com/aparnaprasendran-dev
