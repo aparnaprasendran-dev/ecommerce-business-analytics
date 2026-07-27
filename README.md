@@ -1,21 +1,20 @@
 # 🛒 E-Commerce Business Analytics Dashboard
 
-An end-to-end **Business Intelligence & Data Analytics Project** built using **SQL, Power BI, DAX, and Excel** to analyze an e-commerce dataset and generate actionable business insights.
+An end-to-end **Business Intelligence & Data Analytics** project built using **SQL, Power BI, DAX, and Excel** to analyze an e-commerce dataset and generate actionable business insights for sales, customers, products, deliveries, and returns.
 
 ---
 
 # 📌 Project Overview
 
-This project demonstrates the complete data analytics workflow—from writing SQL queries to answer business questions to building an interactive Power BI dashboard for decision-making.
+This project demonstrates the complete data analytics workflow—from querying relational data using SQL to designing an interactive Power BI dashboard for business decision-making.
 
-The project focuses on:
+The project includes:
 
-- Revenue analysis
-- Customer behaviour
-- Product performance
-- Delivery performance
-- Return analysis
-- Business KPI monitoring
+- Writing SQL queries to answer real-world business questions
+- Building a star schema data model in Power BI
+- Creating DAX measures and KPIs
+- Designing interactive dashboards for business users
+- Generating insights to support data-driven decisions
 
 ---
 
@@ -30,51 +29,97 @@ The project focuses on:
 
 # 🎯 Business Objectives
 
-- Analyze revenue trends over time
-- Measure Month-over-Month (MoM) growth
-- Identify high-performing products
-- Analyze customer purchasing behaviour
-- Monitor delivery efficiency
-- Evaluate product return trends
-- Calculate revenue lost due to returns
-- Support business decision-making using interactive dashboards
+This project aims to answer key business questions such as:
+
+- How has revenue changed over time?
+- Which products generate the highest revenue?
+- Which products are purchased most frequently?
+- Which customer segments contribute the most revenue?
+- What percentage of products are returned?
+- Which categories have the highest return rate?
+- How efficient is the delivery process?
+- How much revenue is lost due to returns?
 
 ---
 
 # 💻 SQL Analysis
 
-The SQL portion of the project answers important business questions through optimized queries.
+The SQL portion of this project focuses on solving business problems using analytical queries on relational data.
 
-### Business Questions Solved
+## Business Questions Answered
 
-- Revenue trend analysis
-- Most purchased products by category
-- Top revenue-generating products
-- Return rate by category
-- Repeat vs One-time customers
-- Percentage of late deliveries
-- Product performance analysis
-- Customer purchasing behaviour
+- 📈 Monthly Revenue Trend
+- 📊 Year-over-Year (YoY) Revenue Growth
+- 🏆 Top Revenue-Generating Products
+- 🛍️ Most Purchased Products
+- 📦 Top Products by Category
+- 🔁 Repeat vs One-Time Customers
+- ↩️ Return Rate by Category
+- 🚚 Percentage of Late Deliveries
 
-### SQL Concepts Used
+---
 
-- Joins
+## SQL Techniques Used
+
+- INNER JOIN
+- LEFT JOIN
 - Common Table Expressions (CTEs)
 - Aggregate Functions
-- Window Functions
-- CASE Statements
-- Subqueries
 - GROUP BY
 - HAVING
 - ORDER BY
+- CASE Statements
+- Window Functions
+- Subqueries
+
+---
+
+## SQL Files Included
+
+| SQL File | Purpose |
+|----------|---------|
+| revenue_trend.sql | Monthly revenue trend analysis |
+| yoy_growth.sql | Year-over-Year revenue growth |
+| top_products_by_revenue.sql | Highest revenue-generating products |
+| most_bought_products.sql | Most purchased products |
+| top_products_by_category.sql | Top-selling products within each category |
+| repeated_vs_one_time_customers.sql | Customer segmentation analysis |
+| return_rate_by_category.sql | Return rate analysis |
+| percent_of_late_deliveries.sql | Percentage of returns caused by late deliveries |
 
 ---
 
 # 📊 Power BI Dashboard
 
-The Power BI dashboard provides interactive visualizations to monitor business performance.
+The Power BI dashboard provides an interactive interface for monitoring business performance across multiple dimensions.
 
-### Dashboard Pages
+## Dashboard Features
+
+- Executive KPI Dashboard
+- Product Performance Analysis
+- Customer Analysis
+- Return & Delivery Analysis
+- Delivery Performance Dashboard
+- Interactive Filters
+- Dynamic DAX Measures
+- Drill-down Visualizations
+
+---
+
+# 📈 Dashboard KPIs
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Return Rate
+- Revenue Lost from Returns
+- Monthly Revenue Trend
+- Month-over-Month Revenue Growth
+
+---
+
+# 🖼️ Dashboard Screenshots
 
 ## Executive Overview
 
@@ -106,40 +151,41 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 ---
 
-# 📈 Dashboard KPIs
+# 🧮 Power BI Skills Demonstrated
 
-- Total Revenue
-- Total Orders
-- Total Customers
-- Average Order Value
-- Return Rate
-- Revenue Lost from Returns
-- Monthly Revenue Trend
-- Month-over-Month Revenue Growth
+- Star Schema Data Modeling
+- Relationship Modeling
+- DAX Measures
+- KPI Development
+- Time Intelligence
+- Interactive Dashboards
+- Slicers & Filters
+- Business Intelligence Reporting
+- Data Visualization
 
 ---
 
-# 💼 Skills Demonstrated
+# 💼 SQL Skills Demonstrated
 
-### SQL
-- Data Extraction
-- Query Optimization
-- Business Query Development
 - Relational Database Analysis
+- Business Query Development
+- Data Aggregation
+- Query Optimization
+- Data Exploration
+- Analytical Problem Solving
 
-### Power BI
-- Data Modeling
-- Star Schema Design
-- DAX Measures
-- Interactive Dashboards
-- KPI Development
-- Data Visualization
+---
 
-### Analytics
-- Business Analysis
-- Data Cleaning
-- Problem Solving
+# 📊 Business Analytics Skills
+
+- Sales Analytics
+- Customer Analytics
+- Product Analytics
+- Return Analysis
+- Delivery Performance Analysis
+- Business KPI Design
 - Insight Generation
+- Data-Driven Decision Making
 
 ---
 
@@ -157,10 +203,19 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 # 🚀 Files Included
 
-- Power BI Dashboard (.pbix)
-- Dashboard Report (.pdf)
-- SQL Query Collection
-- Dashboard Screenshots
+- 📄 Power BI Dashboard (.pbix)
+- 📄 Dashboard Report (.pdf)
+- 📂 SQL Queries
+- 📂 Dashboard Screenshots
+
+---
+
+# ▶️ How to Use
+
+1. Download the `.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Interact with the dashboard using slicers and filters.
+4. Explore the SQL Queries folder to understand the analytical queries used in the project.
 
 ---
 
@@ -168,5 +223,8 @@ The Power BI dashboard provides interactive visualizations to monitor business p
 
 **Aparna P S**
 
-GitHub:
-https://github.com/aparnaprasendran-dev
+- GitHub: https://github.com/aparnaprasendran-dev
+- LinkedIn: https://www.linkedin.com/in/aparna-p-s/
+---
+
+## ⭐ If you found this project interesting, feel free to star the repository!
