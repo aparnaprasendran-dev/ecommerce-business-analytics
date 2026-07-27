@@ -233,7 +233,7 @@ The Power BI dashboard provides interactive reports for monitoring business perf
 **Aparna P S**
 
 - GitHub: https://github.com/aparnaprasendran-dev
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/aparna-p-s/
 
 ---
 
