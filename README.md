@@ -1,24 +1,35 @@
 # 🛒 E-Commerce Business Analytics Dashboard
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-An end-to-end **Business Intelligence & Data Analytics** project built using **SQL, Power BI, DAX, and Excel** to analyze an e-commerce dataset and generate actionable business insights for sales, customers, products, deliveries, and returns.
+An end-to-end **Business Intelligence & Data Analytics** project built using **SQL, Power BI, DAX, and Excel** to analyze an e-commerce dataset and generate actionable business insights.
 
 ---
 
 # 📌 Project Overview
 
-This project demonstrates the complete data analytics workflow—from querying relational data using SQL to designing an interactive Power BI dashboard for business decision-making.
+This project demonstrates the complete analytics workflow—from querying relational data using SQL to designing an interactive Power BI dashboard for business decision-making.
 
-The project includes:
+The dataset consists of transactional e-commerce data containing:
 
-- Writing SQL queries to answer real-world business questions
-- Building a star schema data model in Power BI
+- Customers
+- Products
+- Orders
+- Transactions
+- Deliveries
+- Ratings
+- Returns
+
+The project demonstrates:
+
+- Writing SQL queries to solve business problems
+- Designing a Star Schema data model
 - Creating DAX measures and KPIs
-- Designing interactive dashboards for business users
-- Generating insights to support data-driven decisions
+- Building interactive Power BI dashboards
+- Generating business insights for decision-making
 
 ---
 
@@ -33,7 +44,7 @@ The project includes:
 
 # 🎯 Business Objectives
 
-This project aims to answer key business questions such as:
+This project answers key business questions such as:
 
 - How has revenue changed over time?
 - Which products generate the highest revenue?
@@ -48,7 +59,7 @@ This project aims to answer key business questions such as:
 
 # 💻 SQL Analysis
 
-The SQL portion of this project focuses on solving business problems using analytical queries on relational data.
+The SQL portion of this project focuses on solving business problems using analytical SQL queries.
 
 ## Business Questions Answered
 
@@ -63,7 +74,7 @@ The SQL portion of this project focuses on solving business problems using analy
 
 ---
 
-## SQL Techniques Used
+## SQL Concepts Used
 
 - INNER JOIN
 - LEFT JOIN
@@ -82,31 +93,31 @@ The SQL portion of this project focuses on solving business problems using analy
 
 | SQL File | Purpose |
 |----------|---------|
-| revenue_trend.sql | Monthly revenue trend analysis |
-| yoy_growth.sql | Year-over-Year revenue growth |
-| top_products_by_revenue.sql | Highest revenue-generating products |
-| most_bought_products.sql | Most purchased products |
-| top_products_by_category.sql | Top-selling products within each category |
-| repeated_vs_one_time_customers.sql | Customer segmentation analysis |
-| return_rate_by_category.sql | Return rate analysis |
-| percent_of_late_deliveries.sql | Percentage of returns caused by late deliveries |
+| `revenue_trend.sql` | Monthly revenue trend analysis |
+| `yoy_growth.sql` | Year-over-Year revenue growth |
+| `top_products_by_revenue.sql` | Highest revenue-generating products |
+| `most_bought_products.sql` | Most purchased products |
+| `top_products_by_category.sql` | Top-selling products within each category |
+| `repeated_vs_one_time_customers.sql` | Customer segmentation analysis |
+| `return_rate_by_category.sql` | Return rate by category |
+| `percent_of_late_deliveries.sql` | Percentage of late deliveries |
 
 ---
 
 # 📊 Power BI Dashboard
 
-The Power BI dashboard provides an interactive interface for monitoring business performance across multiple dimensions.
+The Power BI dashboard provides interactive reports for monitoring business performance across multiple dimensions.
 
-## Dashboard Features
+### Dashboard Features
 
 - Executive KPI Dashboard
 - Product Performance Analysis
 - Customer Analysis
 - Return & Delivery Analysis
 - Delivery Performance Dashboard
-- Interactive Filters
+- Interactive Slicers
 - Dynamic DAX Measures
-- Drill-down Visualizations
+- Drill-down Analysis
 
 ---
 
@@ -123,7 +134,7 @@ The Power BI dashboard provides an interactive interface for monitoring business
 
 ---
 
-# 🖼️ Dashboard Screenshots
+# 🖼️ Dashboard Pages
 
 ## Executive Overview
 
@@ -151,11 +162,21 @@ The Power BI dashboard provides an interactive interface for monitoring business
 
 ## Delivery Performance
 
-![Delivery Analysis](Dashboard%20Screenshots/delivery_analysis.png)
+![Delivery Performance](Dashboard%20Screenshots/delivery_analysis.png)
 
 ---
 
-# 🧮 Power BI Skills Demonstrated
+# 💼 Skills Demonstrated
+
+## SQL
+
+- Relational Database Analysis
+- Business Query Development
+- Query Optimization
+- Data Aggregation
+- Analytical SQL
+
+### Power BI
 
 - Star Schema Data Modeling
 - Relationship Modeling
@@ -163,39 +184,23 @@ The Power BI dashboard provides an interactive interface for monitoring business
 - KPI Development
 - Time Intelligence
 - Interactive Dashboards
-- Slicers & Filters
-- Business Intelligence Reporting
 - Data Visualization
 
----
-
-# 💼 SQL Skills Demonstrated
-
-- Relational Database Analysis
-- Business Query Development
-- Data Aggregation
-- Query Optimization
-- Data Exploration
-- Analytical Problem Solving
-
----
-
-# 📊 Business Analytics Skills
+### Business Analytics
 
 - Sales Analytics
 - Customer Analytics
 - Product Analytics
-- Return Analysis
 - Delivery Performance Analysis
-- Business KPI Design
-- Insight Generation
+- Return Analysis
+- Business Intelligence Reporting
 - Data-Driven Decision Making
 
 ---
 
 # 📁 Repository Structure
 
-```
+```text
 📂 Dashboard Screenshots
 📂 SQL Queries
 📄 ajio_project.pbix
@@ -216,10 +221,10 @@ The Power BI dashboard provides an interactive interface for monitoring business
 
 # ▶️ How to Use
 
-1. Download the `.pbix` file.
-2. Open it using Microsoft Power BI Desktop.
-3. Interact with the dashboard using slicers and filters.
-4. Explore the SQL Queries folder to understand the analytical queries used in the project.
+1. Download the **ajio_project.pbix** file.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Explore the dashboard using the slicers and filters.
+4. Review the SQL Queries folder to understand the business analysis performed.
 
 ---
 
@@ -228,7 +233,8 @@ The Power BI dashboard provides an interactive interface for monitoring business
 **Aparna P S**
 
 - GitHub: https://github.com/aparnaprasendran-dev
-- LinkedIn: https://www.linkedin.com/in/aparna-p-s/
+- LinkedIn: *(Add your LinkedIn profile URL here)*
+
 ---
 
 ## ⭐ If you found this project interesting, feel free to star the repository!
